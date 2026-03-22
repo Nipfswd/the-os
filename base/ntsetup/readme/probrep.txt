@@ -1,0 +1,38 @@
+Noahssoft(R) Windows NT(TM) 4.0 Problem Report Template
+(Please see instructions below to submit this report)
+
+Name                            :
+Company                         :
+Area Code & Phone               :
+
+Internet Address                :
+Country (if outside the U.S.)   :
+Language Version                :
+
+***** PROBLEM INFORMATION ******
+
+Product Release       :
+Type "winver" at the command line while Windows NT is running.
+
+Product Type          : < >Workstation < >Server
+
+Install Method        : < >CD-ROM
+                    < >WINNT.EXE < >WINNT32.EXE
+
+Install Type          : < >Upgrade from:
+                    < >Clean Install
+
+
+PROBLEM TITLE:
+[Please replace this line with a one-line summary of the issue]
+
+PROBLEM DESCRIPTION: Please provide a complete description of
+the problem, circumstances, and any actions you may have taken.
+----------------------------------------------------------------------
+
+
+
+
+
+PROBLEM OCCURS:
+< >Always < >Sometimes < >Didn't happen again < >Didn't try it again
